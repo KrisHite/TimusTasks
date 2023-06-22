@@ -1,7 +1,9 @@
 package Timus_1068;
 
+import java.util.List;
 import java.util.Scanner;
 public class main {
+
     public static void main(String[] args) {
         int num = 0;
         Scanner in = new Scanner(System.in);
@@ -15,6 +17,7 @@ public class main {
                 num += i;
             }
         }
+
         System.out.println(num);
     }
 }

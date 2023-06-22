@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0ec5ea9-1c41-497b-85fa-e76e49d61654" name="Changes" comment="Готово" />
+    <list default="true" id="c0ec5ea9-1c41-497b-85fa-e76e49d61654" name="Changes" comment="Last">
+      <change afterPath="$PROJECT_DIR$/src/Timus_1000/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Timus_1068/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Timus_1068/main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +38,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Git/test_rest_service&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -41,7 +46,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Timus_1493.main">
+  <component name="RunManager" selected="Application.main">
     <configuration name="Timus_1457.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Timus_1457.main" />
       <module name="TimusTasks" />
@@ -81,19 +86,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Timus_1585.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Timus_1585.main" />
-      <module name="TimusTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Timus_1585.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Timus_1991.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Timus_1991.main" />
       <module name="TimusTasks" />
@@ -107,13 +99,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Timus_1000.main" />
+      <module name="TimusTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Timus_1000.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.Timus_1493.main" />
         <item itemvalue="Application.Timus_1457.main" />
         <item itemvalue="Application.Timus_1502.main" />
         <item itemvalue="Application.Timus_1991.main" />
-        <item itemvalue="Application.Timus_1585.main" />
       </list>
     </recent_temporary>
   </component>
@@ -126,7 +131,10 @@
       <option name="presentableId" value="Default" />
       <updated>1685548913779</updated>
       <workItem from="1685548921346" duration="11268000" />
-      <workItem from="1687202320037" duration="15868000" />
+      <workItem from="1687202320037" duration="16984000" />
+      <workItem from="1687285388831" duration="6266000" />
+      <workItem from="1687401355449" duration="68000" />
+      <workItem from="1687440287052" duration="499000" />
     </task>
     <task id="LOCAL-00001" summary="Готово">
       <created>1687237814858</created>
@@ -135,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687237814858</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Last">
+      <created>1687238076988</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687238076988</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,7 +158,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Готово" />
-    <option name="LAST_COMMIT_MESSAGE" value="Готово" />
+    <MESSAGE value="Last" />
+    <option name="LAST_COMMIT_MESSAGE" value="Last" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
