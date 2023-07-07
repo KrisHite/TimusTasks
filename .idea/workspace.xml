@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0ec5ea9-1c41-497b-85fa-e76e49d61654" name="Changes" comment="Last">
-      <change afterPath="$PROJECT_DIR$/src/Timus_1025/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus_1083/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus_1197/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus_1243/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus_1264/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Timus_1293/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus_1209/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Timus_1313/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,26 +33,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/alexg/JavaProjects/TimusTasks",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/krishite/IdeaProjects/TimusTasks&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.main">
-    <configuration name="Timus_1457.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Timus_1457.main" />
+}</component>
+  <component name="RunManager" selected="Application.Timus_1209.main">
+    <configuration name="Timus_1209.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Timus_1209.main" />
       <module name="TimusTasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Timus_1457.*" />
+          <option name="PATTERN" value="Timus_1209.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Timus_1313.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Timus_1313.main" />
+      <module name="TimusTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Timus_1313.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,32 +86,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Timus_1502.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Timus_1502.main" />
-      <module name="TimusTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Timus_1502.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Timus_1991.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Timus_1991.main" />
-      <module name="TimusTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Timus_1991.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Timus_1000.main" />
       <module name="TimusTasks" />
@@ -116,13 +99,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ref" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Timus_1209.ref" />
+      <module name="TimusTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Timus_1209.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Timus_1209.main" />
+        <item itemvalue="Application.ref" />
+        <item itemvalue="Application.Timus_1313.main" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.Timus_1493.main" />
-        <item itemvalue="Application.Timus_1457.main" />
-        <item itemvalue="Application.Timus_1502.main" />
-        <item itemvalue="Application.Timus_1991.main" />
       </list>
     </recent_temporary>
   </component>
