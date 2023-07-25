@@ -46,7 +46,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Timus_1209.main">
+  <component name="RunManager" selected="Application.Timus_1100.main">
+    <configuration name="Timus_1100.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Timus_1100.main" />
+      <module name="TimusTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Timus_1100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Timus_1209.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Timus_1209.main" />
       <module name="TimusTasks" />
@@ -66,19 +79,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Timus_1313.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Timus_1493.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Timus_1493.main" />
-      <module name="TimusTasks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Timus_1493.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Timus_1100.main" />
         <item itemvalue="Application.Timus_1209.main" />
         <item itemvalue="Application.ref" />
         <item itemvalue="Application.Timus_1313.main" />
         <item itemvalue="Application.main" />
-        <item itemvalue="Application.Timus_1493.main" />
       </list>
     </recent_temporary>
   </component>
